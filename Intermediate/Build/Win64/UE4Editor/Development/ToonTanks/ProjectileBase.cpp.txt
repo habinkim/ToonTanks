@@ -17,3 +17,10 @@ C:\Users\618-21\Desktop\UE_4.26\Engine\Source\Runtime\Engine\Classes\Kismet\Game
 C:\Users\618-21\Desktop\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 C:\Users\618-21\Desktop\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
 C:\Users\618-21\Desktop\05+ToonTanks\ToonTanks\Source\ToonTanks/ToonTanks.h
+C:\Users\618-21\Desktop\UE_4.26\Engine\Source\Runtime\Engine\Classes\particles/ParticleSystemComponent.h
+C:\Users\618-21\Desktop\UE_4.26\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+C:\Users\618-21\Desktop\UE_4.26\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+C:\Users\618-21\Desktop\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+C:\Users\618-21\Desktop\UE_4.26\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+C:\Users\618-21\Desktop\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+C:\Users\618-21\Desktop\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h
